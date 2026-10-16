@@ -1,0 +1,16 @@
+﻿  AddBooking.cpp
+  AddGuest.cpp
+  AddRoom.cpp
+  AddUser.cpp
+  AdminPage.cpp
+  BookingManagement.cpp
+  LoginPage.cpp
+  ReceptionPage.cpp
+  databaseConnection.cpp
+  insertGuest.cpp
+  insertRoom.cpp
+  insertUser.cpp
+  userClass.cpp
+  Generating Code...
+  AddBooking.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> D:\Hotel booking application\Project1\x64\Debug\Project1.exe
